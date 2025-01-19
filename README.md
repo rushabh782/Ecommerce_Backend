@@ -16,6 +16,7 @@
 The E-commerce Backend System is a robust and scalable application developed using Node.js and Express.js as the primary backend framework. The system is designed to handle core functionalities such as user authentication, product management, and order processing, with MongoDB serving as the database. The application is structured to support seamless API interactions and has been thoroughly tested using Postman.
 
 **Features Implemented:**
+
 **1. User Authentication:**
 
 Implemented secure user authentication using JWT (JSON Web Tokens).
@@ -68,5 +69,15 @@ Ensured seamless integration of user, product, and order functionalities with pr
 
 
 **OUTPUT**
+
+**1. Register User**
+![Image](https://github.com/user-attachments/assets/ab927d06-b9b3-41fc-a3cd-44d063bd7968)
+
+**2.GetOrders**
+![Image](https://github.com/user-attachments/assets/78f677ba-43ee-46b3-9ae1-621f1f4d399d)
+
+**3.UpdatePrder**
+![updateOrder_img7](https://github.com/user-attachments/assets/84c8170e-101f-4b64-bb2d-2c0644c5e747)
+
 **Conclusion:**
 The E-commerce Backend System is a well-structured application that incorporates modern tools and best practices for backend development. With a focus on scalability and security, the system can efficiently manage user authentication, product catalogs, and order processing. The use of Node.js, Express.js, and MongoDB ensures that the backend is highly adaptable and ready for further enhancements. Comprehensive API testing with Postman validates its functionality, making it a solid foundation for any e-commerce platform. Future extensions could include features like payment integration, advanced search capabilities, and detailed analytics dashboards.
